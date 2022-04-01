@@ -5,4 +5,4 @@ Bibliotecas usadas:
 1. urllib
 2. BeautifulSoup
 3. re
-4. Pandas
+4. pandas
